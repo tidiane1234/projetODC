@@ -15,3 +15,5 @@ public class Main {
 
     }
 }
+
+        git config --global user.email "tidianeb163@gmail.com"
