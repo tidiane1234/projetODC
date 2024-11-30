@@ -1,0 +1,6 @@
+com\djessoretech\database\Connect.class
+com\djessoretech\view\PersonneView.class
+com\djessoretech\controllers\PersonneController.class
+com\djessoretech\controllers\PersonneControllerImplement.class
+com\djessoretech\model\Personne.class
+com\djessoretech\Main.class
